@@ -11,12 +11,15 @@ condições para ligar/desligar.
 --- 
 
 ## Descrição (Description)
+
 #### Português (pt-BR)
+
 Este projeto implementa um simulador simples de carro em Java, onde o usuário pode controlar 
 funções básicas de um veículo através de um menu no console. O foco está na aplicação de 
 conceitos de POO (Programação Orientada a Objetos), validações de estado e regras de negócio.
 
 #### English
+
 This project implements a simple car simulator in Java, allowing users to control basic 
 vehicle functions through an interactive console menu. It emphasizes OOP 
 (Object-Oriented Programming) concepts, state validations, and business rules. 
@@ -24,7 +27,9 @@ vehicle functions through an interactive console menu. It emphasizes OOP
 --- 
 
 ## Funcionalidades (Features)
+
 #### Português (pt-BR)
+
 + Ligar/Desligar o carro: Só é possível desligar se estiver em ponto morto (marcha 0) e velocidade 0.
 + Acelerar/Frear: Incremento/decremento de velocidade com limites por marcha (até 120 km/h).
 + Virar: Apenas se velocidade estiver entre 1-40 km/h.
@@ -49,19 +54,19 @@ vehicle functions through an interactive console menu. It emphasizes OOP
 
 #### Português (pt-BR)
 
-Pré-requisitos: Java 8+ instalado.
-Clone o repositório: git clone https://github.com/caiqso/simulador-carro.git
-Compile: javac Main.java Carro.java
-Execute: java Main
-Interaja: Use o menu numérico para controlar o carro (ex.: 1 para ligar, 3 para acelerar).
++ Pré-requisitos: Java 8+ instalado.
++ Clone o repositório: git clone https://github.com/caiqso/simulador-carro.git
++ Compile: javac Main.java Carro.java
++ Execute: java Main
++ Interaja: Use o menu numérico para controlar o carro (ex.: 1 para ligar, 3 para acelerar).
 
 #### English
 
-Prerequisites: Java 8+ installed.
-Clone the repository: git clone https://github.com/caiqso/simulador-carro.git
-Compile: javac Main.java Carro.java
-Run: java Main
-Interact: Use the numeric menu to control the car (e.g., 1 to start, 3 to accelerate).
++ Prerequisites: Java 8+ installed.
++ Clone the repository: git clone https://github.com/caiqso/simulador-carro.git
++ Compile: javac Main.java Carro.java
++ Run: java Main
++ Interact: Use the numeric menu to control the car (e.g., 1 to start, 3 to accelerate).
 
 --- 
 
