@@ -1,4 +1,4 @@
-## Simulador de Carro (Car Simulator)
+# Simulador de Carro (Car Simulator)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/) [![Status](https://img.shields.io/badge/Status-Concluído-green?style=for-the-badge)](#)
 
 --- 
@@ -54,7 +54,8 @@ vehicle functions through an interactive console menu. It emphasizes OOP
 
 #### Português (pt-BR)
 
-+ Pré-requisitos: Java 8+ instalado.
++ **Pré-requisitos: Java 8+ instalado.**
++ **IntelliJ IDEA** (ou qualquer IDE de sua preferência)
 + Clone o repositório: git clone https://github.com/caiqso/simulador-carro.git
 + Compile: javac Main.java Carro.java
 + Execute: java Main
@@ -62,7 +63,8 @@ vehicle functions through an interactive console menu. It emphasizes OOP
 
 #### English
 
-+ Prerequisites: Java 8+ installed.
++ **Prerequisites: Java 8+ installed.**
++ **IntelliJ IDEA** _(or any IDE of your choice)_
 + Clone the repository: git clone https://github.com/caiqso/simulador-carro.git
 + Compile: javac Main.java Carro.java
 + Run: java Main
@@ -126,6 +128,8 @@ Contribuições são bem-vindas! Abra uma issue ou pull request no GitHub. Siga 
 
 #### English
 Contributions are welcome! Open an issue or pull request on GitHub. Follow good coding practices.
+
+---
 
 ## Autor (Author)
 
